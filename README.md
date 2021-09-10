@@ -5,23 +5,18 @@
 Click here to learn about social networks
 
 1. Twitter
-    a. What is twitter?
-       i. Twitter is an American microblogging and social networking service
-          on which users post and interact with messages known as
-          "tweets". Click to know more.
-             1. Go to google.com and search twitter :)
-    b. How to post on twitter?
-       i. Go to twitter.com, sign up/sign in and type in some message and
-          click the Send icon. Click here what more you can do on twitter.
-             1. Follow other profiles
-             2. Chat with the people who follow you
+    1. What is twitter?
+        1. Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Click to know more.
+            1. Go to google.com and search twitter :)
+    2. How to post on twitter?
+        1. Go to twitter.com, sign up/sign in and type in some message and click the Send icon. Click here what more you can do on twitter.
+            1. Follow other profiles
+            2. Chat with the people who follow you
 2. Facebook
-    a. What is facebook?
-       i. Facebook, Inc., is an American multinational technology company
-          based in Menlo Park, California.
-    b. How to post on facebook?
-       i. Go to facebook.com, sign up/sign in and then on your timeline
-          type in some message and click the Post button
+    1. What is facebook?
+        1. Facebook, Inc., is an American multinational technology company based in Menlo Park, California.
+    2. How to post on facebook?
+        1. Go to facebook.com, sign up/sign in and then on your timeline type in some message and click the Post button
 
 ## Approach
 
