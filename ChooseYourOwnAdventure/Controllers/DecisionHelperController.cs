@@ -16,7 +16,7 @@ namespace ChooseYourOwnAdventure.Controllers
             _service = service;
         }
 
-        // GET: api/<DecisionHelperController>
+        // GET: api/DecisionHelper
         [HttpGet]
         public IActionResult Get()
         {
