@@ -45,7 +45,7 @@ Vue.js, HTML, CSS, JavaScript
 
 Here is the create script.
 
-```
+```sql
 CREATE TABLE Decisions
 (
 	DecisionId INT PRIMARY KEY IDENTITY(1, 1),
@@ -57,7 +57,7 @@ CREATE TABLE Decisions
 
 A stored procedure is needed in order to get all decisions with their details ordered by a depth column set as 0 for the root question and then incremented as we load the children.
 
-```
+```sql
 USE [ChooseYourOwnAdventure]
 GO
 
@@ -111,7 +111,7 @@ Decisions
 GET api/DecisionHelper
 ```
 ##### Response Example
-```
+```JSONiq
 {
 	"decisionId": 1,
 	"description": "Click here to learn about social networks",
