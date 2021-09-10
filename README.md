@@ -1,8 +1,8 @@
 # ChooseYourOwnAdventure
+Here is the heirarchy of decisions that I am displaying on the front end using.
 
-## My Example Decision Heirarchy
-
-Click here to learn about social networks
+## Example Decision Heirarchy
+**Root question:** Click here to learn about social networks
 
 1. Twitter
     1. What is twitter?
